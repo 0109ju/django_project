@@ -1,0 +1,9 @@
+body {
+    background: white url("images/background.png") no-repeat;
+    background-position-x: center;
+    background-position-y: 250px;
+}
+
+li a {
+    color: rebeccapurple;
+}
